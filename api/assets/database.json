@@ -1,0 +1,18 @@
+{
+    "1": {
+        "title": "tiramasu",
+        "rating": 5
+    },
+    "2": {
+        "title": "chocolate mousse",
+        "rating": 5
+    },
+    "3": {
+        "title": "rice pudding",
+        "rating": -10
+    },
+    "4": {
+        "title": "sorbet",
+        "rating": 3.5
+    }
+}
