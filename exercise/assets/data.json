@@ -1,0 +1,22 @@
+[
+    {
+        "id": 101,
+        "name": "notebook",
+        "price": 10.99
+    },
+    {
+        "id": 102,
+        "name": "fancy pen",
+        "price": 19.99
+    },
+    {
+        "id": 103,
+        "name": "ballpoint pen",
+        "price": 1.99
+    },
+    {
+        "id": 104,
+        "name": "eraser",
+        "price": 2.99
+    }
+]
